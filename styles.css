@@ -112,7 +112,7 @@ body {
 .divider {
 	height: 1px;
 	width: 100%;
-	background-color: rgba(0, 0, 0, 0.15);
+	background-color: #dfdfdf;
 	margin: 20px 0;
 }
 
