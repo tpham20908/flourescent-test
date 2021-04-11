@@ -187,6 +187,7 @@ body {
 	background-color: white;
 	border-radius: 32px;
 	border: 1px solid #dfdfdf;
+	font-family: IBM_Plex_Sans;
 	cursor: pointer;
 	transition: all 0.2s;
 }
