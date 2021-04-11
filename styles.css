@@ -186,7 +186,7 @@ body {
 	padding: 12px 0;
 	background-color: white;
 	border-radius: 32px;
-	border: 1px solid #eee;
+	border: 1px solid #dfdfdf;
 	cursor: pointer;
 	transition: all 0.2s;
 }
